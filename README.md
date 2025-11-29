@@ -1,4 +1,4 @@
-# 🧠 Hybrid Information Retrieval System (Wikipedia)
+# Hybrid Information Retrieval System (Wikipedia)
 
 Streamlit application for **hybrid information retrieval** over a Wikipedia corpus.
 
@@ -13,13 +13,13 @@ It combines:
 
 This project was built for *CSC-785-U18* as a course project on Information Retrieval.
 
-## 📸 Application UI
+## Application UI
 
 ![Hybrid IR UI](images/UI.png)
 
 ---
 
-## ✨ Features
+## Features
 
 - **Configurable corpus size**  
   Load between 1,000 and 20,000 English Wikipedia articles from Hugging Face
