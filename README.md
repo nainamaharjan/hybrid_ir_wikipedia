@@ -64,7 +64,7 @@ This project was built for *CSC-785-U18* as a course project on Information Retr
 
 ---
 
-## 🏗️ High-Level Architecture
+## High-Level Architecture
 
 1. **Corpus loader**
    - Loads first *N* articles from Hugging Face Wikipedia dump.
@@ -91,7 +91,7 @@ This project was built for *CSC-785-U18* as a course project on Information Retr
 
 ---
 
-## 📦 Requirements
+## Requirements
 
 The core requirements (see `requirements.txt`):
 
