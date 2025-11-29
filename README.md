@@ -17,6 +17,10 @@ This project was built for *CSC-785-U18* as a course project on Information Retr
 
 ![Hybrid IR UI](images/UI.png)
 
+## Demo
+
+![Hybrid IR Demo](images/UI_demo.gif)
+
 ---
 
 ## Features
